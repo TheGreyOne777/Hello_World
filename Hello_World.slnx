@@ -1,3 +1,5 @@
 <Solution>
-  <Project Path="Hello_World/Hello_World.csproj" />
+  <Project Path="Hello_World/Hello_World.csproj" Id="fc261364-3a23-41dc-aa04-23875950a228" />
+  <Project Path="Odd_Numbers/Odd_Numbers.csproj" Id="7d9f51a1-82fb-452a-995b-6e826a5126e4" />
+  <Project Path="sum_two_numbers/sum_two_numbers.csproj" Id="f5c1036d-f514-40e8-9c44-66b1b8c7ad8a" />
 </Solution>
