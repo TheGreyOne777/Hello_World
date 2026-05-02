@@ -1,4 +1,14 @@
 <Solution>
+  <Folder Name="/.build/">
+    <File Path=".build/MSBuild.Community.Tasks.dll" />
+    <File Path=".build/MSBuild.Community.Tasks.targets" />
+    <File Path="Build.proj" />
+  </Folder>
+  <Folder Name="/NewFolder1/" />
+  <Folder Name="/NewFolder2/" />
+  <Folder Name="/NewFolder3/" />
+  <Folder Name="/NewFolder4/" />
+  <Project Path="Generate_ASCII_Value/Generate_ASCII_Value.csproj" Id="a0b9239b-8d83-4a89-bc8d-63cb71c1e3f8" />
   <Project Path="Hello_World/Hello_World.csproj" Id="fc261364-3a23-41dc-aa04-23875950a228" />
   <Project Path="number_Counts/number_Counts.csproj" Id="eef5f83f-abb6-4a11-bbef-6c76a9bebed0" />
   <Project Path="Odd_Numbers/Odd_Numbers.csproj" Id="7d9f51a1-82fb-452a-995b-6e826a5126e4" />

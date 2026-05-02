@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F5C1036D-F514-40E8-9C44-66B1B8C7AD8A}</ProjectGuid>
+    <ProjectGuid>{A0B9239B-8D83-4A89-BC8D-63CB71C1E3F8}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>sum_two_numbers</RootNamespace>
-    <AssemblyName>sum_two_numbers</AssemblyName>
+    <RootNamespace>Generate_ASCII_Value</RootNamespace>
+    <AssemblyName>Generate_ASCII_Value</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
