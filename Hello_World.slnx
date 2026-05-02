@@ -10,6 +10,7 @@
   <Folder Name="/NewFolder4/" />
   <Project Path="Generate_ASCII_Value/Generate_ASCII_Value.csproj" Id="a0b9239b-8d83-4a89-bc8d-63cb71c1e3f8" />
   <Project Path="Hello_World/Hello_World.csproj" Id="fc261364-3a23-41dc-aa04-23875950a228" />
+  <Project Path="LeapYearCoding/LeapYearCoding.csproj" Id="2e510244-e2b5-4a2f-a815-426e4ef92216" />
   <Project Path="number_Counts/number_Counts.csproj" Id="eef5f83f-abb6-4a11-bbef-6c76a9bebed0" />
   <Project Path="Odd_Numbers/Odd_Numbers.csproj" Id="7d9f51a1-82fb-452a-995b-6e826a5126e4" />
   <Project Path="sum_two_numbers/sum_two_numbers.csproj" Id="f5c1036d-f514-40e8-9c44-66b1b8c7ad8a" />
