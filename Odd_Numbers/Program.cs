@@ -18,13 +18,12 @@ namespace Odd_Numbers
             if (x % 2 == 0)
             {
                 Console.Write("This is an Even number: ");
-                Console.Read();
             }
             else
             {
                 Console.Write("This is an ODD number ");
-                Console.ReadLine();
             }
+            Console.ReadKey();
         }
     }
 }
